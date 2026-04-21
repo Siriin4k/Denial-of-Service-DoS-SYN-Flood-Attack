@@ -76,6 +76,7 @@ Kali VM Network Settings
 ![Kali Lockscreen](<Screenshot/Screenshot 2026-04-12 223310.png>)
 
 
+Ubuntu VM Network Settings
 <p align="center">
   <img src="Screenshot/Screenshot 2026-04-21 214213.png" alt="First Image" width="49%">
   <img src="Screenshot/Screenshot 2026-04-21 214226.png" alt="Second Image" width="49%">
